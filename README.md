@@ -1,1 +1,1 @@
-# Multi step form component for React applications npm install npm start
+# Multi step form component for React applications
